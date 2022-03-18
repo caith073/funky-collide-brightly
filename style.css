@@ -1,26 +1,23 @@
 body {
     font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     background-color: #5176a6;
-    display: inline-flex;
     color: #fff;
     margin: 10px;
     padding: 10px;
 }
 
 .main {
-    margin: 5px;
-    padding: 5px;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
     background-color: #5176a6 ;
     border-radius: 10px;
 }
 .container1 {
     background-color: aliceblue;
-    display: inline-block;
     text-decoration: none;
     color: black;
-    width: 40vh;
     height: auto;
-    margin-right: 15px;
     padding: 5px;
     border-radius: 10px;
     border: 5px solid #1b2226;
@@ -28,42 +25,42 @@ body {
 
 .card {
     text-align: center;
-    margin-right: 35px;
+    margin-right: 31px;
 
 }
 .container2 {
     background-color: aliceblue;
-    display: inline-block;
     text-decoration: none;
     color: black;
-    width: 40vh;
     height: auto;
-    margin-right: 15px;
     padding: 5px;
     border-radius: 10px;
     border: 5px solid #1b2226;
 }
 .container3 {
     background-color: aliceblue;
-    display: inline-block;
     text-decoration: none;
     color: black;
-    width: 40vh;
     height: auto;
-    margin-right: 15px;
     padding: 5px;
     border-radius: 10px;
     border: 5px solid #1b2226;
 }
 .container4 {
     background-color: aliceblue;
-    display: inline-block;
     text-decoration: none;
     color: black;
-    width: 40vh;
     height: auto;
-    margin-right: 15px;
     padding: 5px;
+    border-radius: 10px;
+    border: 5px solid #1b2226;
+}
+.banner {
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    font-size: 1em;
+    height: 20vh;
     border-radius: 10px;
     border: 5px solid #1b2226;
 }
